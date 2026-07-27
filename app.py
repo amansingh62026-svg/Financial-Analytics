@@ -13,7 +13,7 @@ def load_data():
 
 df = load_data()
 
-st.title("Financial Dashboard: [YOUR COMPANY NAME]")
+st.title("Financial Dashboard: [Hindustan Unilever]")
 
 # 3 KPI Cards
 st.subheader("Latest Period KPIs")
